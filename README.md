@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=cherishmey&count_private=true&show_icons=true)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kim_doyeon})](https://solved.ac/{kim_doyeon})
+
 <!--
 **cherishmey/cherishmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
