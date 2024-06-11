@@ -5,7 +5,7 @@
 
 ### 🔗 &nbsp;Links
 <a href="https://doyeon.super.site/"><img src="https://img.shields.io/badge/Porfoilo-Notion-blue"/></a>
-<a href="https://velog.io/@cookie004"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://linkedin.com/in/deanna06"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:kim.doyeon@outlook.kr"><img src="https://img.shields.io/badge/-kim.doyeon@outlook.kr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp; Skills
